@@ -27,11 +27,11 @@ trackmania-ai/
 ├── data_collection.py    # Records gameplay data
 ├── train_model.py       # Trains the neural network
 ├── run_agent.py         # Runs the trained AI
-├── trackmania_model.h5  # Pre-trained model (Stadium track)
+├── trackmania_model.h5  # Pre-trained model
 ├── models/              # Directory for saved models
 ├── dataset_opencv/      # Training data (generated)
 ├── training_history.png # Training visualization (generated)
-├── training_map_stadium.png # Training track reference
+├── maps # TrackMania map
 └── README.md
 ```
 
