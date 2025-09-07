@@ -31,7 +31,7 @@ trackmania-ai/
 ├── models/              # Directory for saved models
 ├── dataset_opencv/      # Training data (generated)
 ├── training_history.png # Training visualization (generated)
-├── maps # TrackMania map
+├── maps                 # TrackMania map
 └── README.md
 ```
 
